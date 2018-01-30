@@ -3,7 +3,7 @@ layout: post
 title: 淡然若水
 date: 2018-01-30 19:07:00 -0000
 tags: [朝花夕拾集]
-image: bullets-us-flag.jpg
+image: italian-landscape-mountains-nature.jpg
 ---
 
 > 漫漫旅途，多一份淡定从容，少一些患得患失，一定能看到不一样的风景：
