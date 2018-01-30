@@ -9,7 +9,7 @@ projects_title: 集
 
 # User settings
 user_description_appendix: |
-  This site is built in [Jekyll][jekyll] and hosted on [Github Pages][gh-pages]. If you like it, feel free to fork it on
+  This site is built in [Jekyll][jekyll] and hosted on [Github Pages][gh-pages]. If you like it, please star it on
   [Github][github].
 
   [github]: https://github.com/CircleZ3791117/CircleZ3791117.github.io
@@ -30,13 +30,9 @@ author: Circle Zhou
 author_title: 采菊东篱下，悠然现南山
 author_photo: profile-photo.png
 user_description_short: |
-  My name is Circle Zhou. I'm a software engineer based in Chendu. My preferred language is
-  [Python][python].
+  嗨，我是周环（circlezhou），一个喜欢编程和古文的理科生/开发者。
 
-  Away from the keyboard, I make food and music.
-
-  [python]: https://www.python.org/
-
+  现居天府之国——成都。正在修行，路漫漫其修远兮，吾将上下而求索。
 
 ## Disqus
 disqus_identifier: circlez3791117
