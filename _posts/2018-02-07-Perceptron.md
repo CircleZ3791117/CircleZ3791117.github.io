@@ -4,10 +4,12 @@ title: 深度学习 - 感知器
 date: 2018-02-07 16:43:00 -0000
 tags: [匠心独运集]
 image: perceptron_background.jpeg
+mathjax: true
 ---
 # 感知器
 ## 深度学习是啥
 在人工智能领域，有一个方法叫机器学习。在机器学习这个方法里，有一类算法叫神经网络。神经网络如下图所示：
+
 ![01](/assets/img/2018_02_07/01.png){:height="50%" width="50%"}
 
 
@@ -24,6 +26,7 @@ image: perceptron_background.jpeg
 
 ### 感知器的定义
 下图是一个感知器：
+
 ![02](/assets/img/2018_02_07/02.png){:height="50%" width="50%"}
 
 
