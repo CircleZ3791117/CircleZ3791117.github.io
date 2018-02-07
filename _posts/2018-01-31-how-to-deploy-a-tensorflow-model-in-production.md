@@ -13,7 +13,7 @@ image: tensorflow-serving.jpg
 
 **TensorFlow Serving 流程图：** ![Tensorflow workflow](/assets/img/2018_01_31/tensorflow-serving-arc.png)
 
-**Deep learning：** ![Deep learning](assets/img/2018_01_31/deep-learning-process.png)
+**Deep learning：** ![Deep learning](/assets/img/2018_01_31/deep-learning-process.png)
 
 Tensorflow Serving 特点：
 - 可以说是谷歌为TensorFlow开发的”配套服务“
