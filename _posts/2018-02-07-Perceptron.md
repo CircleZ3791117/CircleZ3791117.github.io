@@ -4,7 +4,7 @@ title: 深度学习 - 感知器
 date: 2018-02-07 16:43:00 -0000
 tags: [匠心独运集]
 image: perceptron_background.jpeg
-mathjax: true
+use_math: true
 ---
 # 感知器
 

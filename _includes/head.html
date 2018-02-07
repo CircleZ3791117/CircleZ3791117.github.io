@@ -16,6 +16,9 @@
   {% else %}
   <meta property="og:image" content="{{"/assets/img/" | prepend: site.baseurl | prepend: site.url | append: site.author_photo }}">
   {% endif %}
+  {% if page.use_math %}
+      {% include mathjax_support.html %}
+  {% endif %}
   <meta property="og:url" content="{{ site.url | append: site.baseurl | append: page.url }}"/>
   <meta name="twitter:card" content="summary_large_image"/>
 
