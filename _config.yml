@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Hope
-subtitle: Hope's Blog
-description: 靡不有初，鲜克有终。
-author: Lhp
+title: CCZ
+subtitle: CircleZ's Blog
+description: 采菊东篱下，悠然现南山
+author: Circle Zhou
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2016
+since: 2017
 
 # icon between year and author @Footer
 authoricon: heart
@@ -213,9 +213,8 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  知乎: https://www.zhihu.com/people/lu-hao-peng-26/activities
-  GitHub: https://github.com/HusterHope
-  B站: https://space.bilibili.com/13758485#!/
+  # 知乎: https://www.zhihu.com/people/circlezhou/activities
+  GitHub: https://github.com/CircleZ3791117
 
 
 # Social Links Icons
@@ -236,7 +235,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/author.jpg
+avatar: /assets/images/author.png
 
 
 # Table Of Contents in the Sidebar
@@ -288,11 +287,8 @@ links_title: Links
 #links_layout: block
 links_layout: inline
 links:
-  111qqz的小窝: http://111qqz.com/
-  Yalv的博客: https://yalv.me/
-  VectorLu: http://vectorlu.com/
-  独立世界: https://yjk.im/
-  大黄菌: http://kyonhuang.top/
+  # OneV's Den: https://onevcat.com/
+  
 
 
 # ---------------------------------------------------------------
@@ -343,7 +339,7 @@ post_copyright:
 # Rewards
 reward_comment: 支付宝打赏链接还是要有的，万一真的有人赏呢:D
 #wechatpay: /path/to/wechat-reward-image
-alipay: /assets/images/alipayCode.jpg
+alipay: /assets/images/alipay.jpg
 
 # ---------------------------------------------------------------
 # Misc Theme Settings
@@ -437,7 +433,7 @@ jiathis: false
 #google_site_verification:
 
 # Google Analytics
-google_analytics: UA-106640590-1
+google_analytics: UA-113303383-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
