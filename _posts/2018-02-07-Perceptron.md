@@ -6,10 +6,8 @@ tags:
 - deep learning
 - 感知器
 category: [匠心独运集]
-excerpt: ""
+excerpt: "本文为深度学习系列笔记的第一弹 —— 感知器。"
 ---
-
-> 本文为深度学习系列笔记的第一弹 —— 感知器。 
 
 # 感知器
 
