@@ -6,6 +6,7 @@ tags:
 - deep learning
 - 感知器
 category: [匠心独运集]
+excerpt: ""
 ---
 # 感知器
 
