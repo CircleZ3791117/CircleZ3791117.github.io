@@ -24,10 +24,10 @@ $$
 
 
 这样的线性单元如下图所示
-
-
+![01](/assets/images/2018-02-23-LinearUnitAndGradientDescent/01.png){:height="50%" width="50%"}
 
 对比此前我们讲过的感知器
+![02](/assets/images/2018-02-23-LinearUnitAndGradientDescent/02.png){:height="50%" width="50%"}
 
 
 
@@ -151,7 +151,7 @@ $$
 
 不过对于计算机来说，它可不会解方程。但是它可以凭借强大的计算能力，一步一步的去把函数的极值点『试』出来。如下图所示：
 
-
+![03](/assets/images/2018-02-23-LinearUnitAndGradientDescent/03.png){:height="50%" width="50%"}
 
 首先，我们随便选择一个点开始，比如上图的$x_0$点。接下来，每次迭代修改的为$x_1, x_2, x_3, \dots$，经过数次迭代后最终达到函数最小值点。
 
@@ -323,7 +323,7 @@ $$
 ## 随机梯度下降算法(Stochastic Gradient Descent, SGD)
 如果我们根据(式3)来训练模型，那么我们每次更新的迭代，要遍历训练数据中所有的样本进行计算，我们称这种算法叫做**批梯度下降(Batch Gradient Descent)**。如果我们的样本非常大，比如数百万到数亿，那么计算量异常巨大。因此，实用的算法是SGD算法。在SGD算法中，每次更新$w$的迭代，只计算一个样本。这样对于一个具有数百万样本的训练数据，完成一次遍历就会对$w$更新数百万次，效率大大提升。由于样本的噪音和随机性，每次更新$w$并不一定按照减少$E$的方向。然而，虽然存在一定随机性，大量的更新总体上沿着减少$E$的方向前进的，因此最后也能收敛到最小值附近。下图展示了SGD和BGD的区别
 
-
+![04](/assets/images/2018-02-23-LinearUnitAndGradientDescent/04.png){:height="50%" width="50%"}
 
 如上图，椭圆表示的是函数值的等高线，椭圆中心是函数的最小值点。红色是BGD的逼近曲线，而紫色是SGD的逼近曲线。我们可以看到BGD是一直向着最低点前进的，而SGD明显躁动了许多，但总体上仍然是向最低点逼近的。
 
@@ -389,10 +389,11 @@ if __name__ == '__main__':
 ```
 程序运行结果如下图
 
-
+![05](/assets/images/2018-02-23-LinearUnitAndGradientDescent/05.png){:height="50%" width="50%"}
 
 拟合的直线如下图
 
+![06](/assets/images/2018-02-23-LinearUnitAndGradientDescent/06.png){:height="50%" width="50%"}
 
 
 ## 小结
