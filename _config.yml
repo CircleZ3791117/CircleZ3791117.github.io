@@ -337,7 +337,7 @@ post_copyright:
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 # Rewards
-reward_comment: 支付宝打赏链接还是要有的，万一真的有土豪赏呢:D<br>(打赏超过9.9元记得备注邮箱，博主将为你送上吐血整理的深度学习资料大礼包^_^)
+reward_comment: 支付宝打赏链接还是要有的，万一真的有土豪赏呢 ^_^
 #wechatpay: /path/to/wechat-reward-image
 alipay: /assets/images/alipay.jpg
 
