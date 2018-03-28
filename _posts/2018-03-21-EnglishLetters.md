@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 那些句子拯救了你的英文邮件
+title: 英文邮件写作✏️
 date: 2018-03-21 10:41:00 -0000
 tags:
  - 沟通交流
@@ -71,6 +71,18 @@ categories: 兼容并包集
 学术场合才需要加抬头，比如Prof. Johnson。政客的Congressman Johnson。
 
 记住，一般不加Dear，只有公司的群发邮件才会说Dear all.
+
+## 5）告别邮件主题
+离职时发邮件感谢同事，一般用以下两种
+- Thank you
+- Farewell
+
+# 二、邮件基本术语
+尽量不要凭想象力创造一些表达
+## 1）抄送别人
+美国人直接说copy
+- I have put John on copy.(记住put on copy的固定搭配)
+- You can copy Steven going forward.
 
 
 
