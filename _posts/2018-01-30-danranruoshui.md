@@ -8,9 +8,9 @@ tags:
 categories: [朝花夕拾集]
 ---
 
-![01](/assets/images/2018-01-30-danranruoshui/italian-landscape-mountains-nature.jpg)
-
 > 漫漫旅途，多一份淡定从容，少一些患得患失，一定能看到不一样的风景：
+
+![01](/assets/images/2018-01-30-danranruoshui/italian-landscape-mountains-nature.jpg)
 
 1. 生活如水，人生似茶。 再好的茶放到水里泡一泡，时间久了，也就淡了。也许是棱角平了，或许是成熟稳重了，脚步越来越踏实，日子越来越平淡。人生步入另外一种境界，原来淡然，是人生的一种成长。
 
