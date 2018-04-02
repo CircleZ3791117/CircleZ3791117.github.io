@@ -8,6 +8,8 @@ tags:
 categories: 兼容并包集
 ---
 
+> 写一封地道的，能准确表情达意的英文邮件在日常工作中还是很重要的，本文就记录一些常用的英文邮件表达。
+
 先来一封外企CEO发的邮件：
 > Happy New Year -  I hope you and your family had a great holiday and enjoyed some well-deserved time off. Thank you again for a terrific effort and a strong result last year!
 
