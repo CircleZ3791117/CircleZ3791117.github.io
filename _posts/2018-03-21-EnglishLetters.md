@@ -95,7 +95,7 @@ categories: 兼容并包集
 - Adding/Added Steven.
 
 甚至直接用“+”都可以
-- + Steven
+- \+ Steven
 
 把某人删除(涉及到保密信息)，用remove
 - Removed Mike from this email
@@ -154,6 +154,7 @@ excel,pdf,word的正确说法document，而不是file.(excel也可以说spreadsh
 ## 1）不用总说maybe，如果确定性比较大的情况下，用probably（或者用seem）
 
 比较
+
 例一：
 > Maybe this is right. (×)
 > This is probably right. (✔️)
@@ -169,12 +170,14 @@ excel,pdf,word的正确说法document，而不是file.(excel也可以说spreadsh
 ## 2）给别人提供建议时，不要用should,而是用It would be better
 
 比较
+
 > This designed should be changed
 > It would be better if we can change the design
 
 ## 3）表示一件事希望你做，但是不强求时，用 It would be nice/great 而不是 I need you to xxx, I hope you xxx, could you?
 
 比较
+
 > I hope you can come today.
 > You need to come today.
 > Could you come today?
@@ -183,6 +186,7 @@ excel,pdf,word的正确说法document，而不是file.(excel也可以说spreadsh
 ## 4) 问别人要东西/信息时，用May I have...? 而不要 Could you give me?
 
 比较
+
 例一：
 > What's your name?
 > May I have your name?
@@ -206,6 +210,7 @@ excel,pdf,word的正确说法document，而不是file.(excel也可以说spreadsh
 ## 5) 问别人是否可以做一件事，用Is it possible that... 比 Could you 更礼貌
 
 比较
+
 例一：
 > Could you change the design?
 > Is it possibel for you to chang the design?
@@ -221,6 +226,7 @@ excel,pdf,word的正确说法document，而不是file.(excel也可以说spreadsh
 ## 7) 指责别人时，用现在进行时比一般现在时更委婉
 
 比较
+
 > You are impatient/argumentative/unreasonable. 你很没耐心/强词夺理/无理取闹
 > You are being imapatient/argumentative/unreasonable
 
@@ -229,6 +235,7 @@ excel,pdf,word的正确说法document，而不是file.(excel也可以说spreadsh
 ## 8) 表达要求时多用进行时
 
 比较
+
 > We need to do this as soon as possible.
 > We need to be doing this as soon as possible.
 
@@ -244,6 +251,7 @@ want稍微带有要求的意思，用would like更委婉一些
 please 有时稍微带有一点命令语气，特别是在给客户或者老板写邮件请求某事，把please替换成疑问句。
 
 比较
+
 例一：
 > Please reply to me by today.
 > Could you reply to me by today?
@@ -254,6 +262,7 @@ please 有时稍微带有一点命令语气，特别是在给客户或者老板�
 ## 12) 用let, allow更礼貌
 
 比较
+
 例一：
 > Please tell me your feedback.
 > Please let me know your feedback.
@@ -268,18 +277,21 @@ please 有时稍微带有一点命令语气，特别是在给客户或者老板�
 ## 14) 由于客观上做不到，not able to 代替 can not
 
 比较
+
 > Sorry I can't come to the party today since I'll need to work very late.
 > Sorry I'm not able to come to the party today since I'll need to work very late.
 
 ## 15) 给need加将来时，更加委婉
 
 比较
+
 > You need to buy a new machine if this one doesn't work.
 > You'll need to buy a new machine if this one doesn't work.
 
 ## 16) 美国人喜欢用 I guess 来代替 I think
 
 比价
+
 例一：
 > I think we'll leave now.
 > I guess we'll leave now.
@@ -298,6 +310,7 @@ please 有时稍微带有一点命令语气，特别是在给客户或者老板�
 ## 19）某些负面情况下用 have difficulty 代替 can't，委婉把责任推向自己这边
 
 比较
+
 例一：
 > I can't trust you.
 > I have difficulty trusting you.
@@ -311,7 +324,7 @@ please 有时稍微带有一点命令语气，特别是在给客户或者老板�
 
 
 
-# 商务英语100句
+# 七、商务英语100句
 1. I am writing to confirm/enquire/inform you... 
 我发邮件是想找你确认/询问/想通知你 有关…
 
