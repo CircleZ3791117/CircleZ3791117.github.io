@@ -322,8 +322,6 @@ please 有时稍微带有一点命令语气，特别是在给客户或者老板�
 ## 20) 委婉命令别人用 It might be a good idea 比 please 要礼貌
 > It might be a good idea to fasten your seat belt.
 
-
-
 # 七、商务英语100句
 1. I am writing to confirm/enquire/inform you... 
 我发邮件是想找你确认/询问/想通知你 有关…
