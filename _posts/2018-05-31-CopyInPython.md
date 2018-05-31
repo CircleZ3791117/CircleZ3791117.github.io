@@ -37,7 +37,7 @@ print [id(ele) for ele in wilber]
 ```
 
 代码的输出为：
-![01](/assets/images/2018-5-31-CopyInPython/01.png){:height="50%" width="50%"}
+![01](/assets/images/2018-05-31-CopyInPython/01.png){:height="50%" width="50%"}
 
 下面来分析一下这段代码：
 
