@@ -37,7 +37,7 @@ print [id(ele) for ele in wilber]
 ```
 
 代码的输出为：
-[img1]()
+![01](/assets/images/2018-5-31-CopyInPython/01.png){:height="50%" width="50%"}
 
 下面来分析一下这段代码：
 
@@ -47,7 +47,7 @@ print [id(ele) for ele in wilber]
 - 第三张图中，由于will和wilber指向同一个对象，所以对will的任何修改都会体现在wilber上
 这里需要注意的一点是，str是不可变类型，所以当修改的时候会替换旧的对象，产生一个新的地址39758496
 
-[img2]()
+![02](/assets/images/2018-5-31-CopyInPython/02.png){:height="50%" width="50%"}
 
 # 浅拷贝
 
@@ -76,7 +76,7 @@ print wilber
 print [id(ele) for ele in wilber]
 ```
 代码结果：
-[img3]()
+![03](/assets/images/2018-5-31-CopyInPython/03.png){:height="50%" width="50%"}
 
 分析一下这段代码：
 
@@ -88,7 +88,7 @@ print [id(ele) for ele in wilber]
 	- 由于list的第一个元素是不可变类型，所以will对应的list的第一个元素会使用一个新的对象39758496
 	- 但是list的第三个元素是一个可不类型，修改操作不会产生新的对象，所以will的修改结果会相应的反应到wilber上
 
-[img4]()
+![04](/assets/images/2018-5-31-CopyInPython/04.png){:height="50%" width="50%"}
 
 总结一下，当我们使用下面的操作的时候，会产生浅拷贝的效果：
 
@@ -124,7 +124,7 @@ print [id(ele) for ele in wilber]
 ```
 
 代码结果：
-[img5]()
+![05](/assets/images/2018-5-31-CopyInPython/05.png){:height="50%" width="50%"}
 
 分析一下这段代码：
 
@@ -137,13 +137,13 @@ print [id(ele) for ele in wilber]
 	- 由于list的第一个元素是不可变类型，所以will对应的list的第一个元素会使用一个新的对象39758496
 	- 但是list的第三个元素是一个可不类型，修改操作不会产生新的对象，但是由于"wilber[2] is not will[2]"，所以will的修改不会影响wilber
 
-[img6]()
+![06](/assets/images/2018-5-31-CopyInPython/06.png){:height="50%" width="50%"}
 
 # 拷贝的特殊情况
 - 对于非容器类型（如数字、字符串、和其他'原子'类型的对象）没有拷贝这一说
 也就是说，对于这些类型，"obj is copy.copy(obj)" 、"obj is copy.deepcopy(obj)"
 - 如果元祖变量只包含原子类型对象，则不能深拷贝，看下面的例子
-[img7]()
+![07](/assets/images/2018-5-31-CopyInPython/07.png){:height="50%" width="50%"}
 
 # 总结
 本文介绍了对象的赋值和拷贝，以及它们之间的差异：
